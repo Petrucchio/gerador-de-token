@@ -1,0 +1,21 @@
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\gerador de token.exe
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\gerador de token.deps.json
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\gerador de token.runtimeconfig.json
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\gerador de token.dll
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\gerador de token.pdb
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vitux\source\repos\gerador de token\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.csproj.AssemblyReference.cache
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.AssemblyInfoInputs.cache
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.AssemblyInfo.cs
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.csproj.CoreCompileInputs.cache
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador .A8BAA3E4.Up2Date
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.dll
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\refint\gerador de token.dll
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.pdb
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\gerador de token.genruntimeconfig.cache
+C:\Users\vitux\source\repos\gerador de token\obj\Debug\net8.0\ref\gerador de token.dll
